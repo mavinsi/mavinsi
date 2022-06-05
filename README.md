@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h2><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30"/> Skills</h2>
+  <h1><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/> Skills</h1>
 </div>
 <br>
 <div id="header" align="center">
