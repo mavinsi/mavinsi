@@ -1,10 +1,15 @@
+<div id="header" align="center">
+  <h1><img src="https://c.tenor.com/W4nmjcvLtfoAAAAi/magnifying-glass-icon.gif" width="40"/> About-me</h1>
+  I'm a young man who study programming on my own, focused on back-end and I'm passionate about computing, electronics, music, model airplanes.
+</div>
+<br>
 
 <div id="header" align="center">
   <h1><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/> Skills</h1>
 </div>
 <br>
-<div id="header" align="center">
 
+<div id="header" align="center">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
