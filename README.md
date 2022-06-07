@@ -1,9 +1,12 @@
-<img src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif">
 
 
 
-  I'm a young man who study programming on my own, focused on back-end and I'm passionate about computing, electronics, music, model airplanes.
-<br>
+<div>
+   <img src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" align="left">
+    I'm a young man who study programming on my own, focused on back-end and I'm passionate about computing, electronics, music, model airplanes.
+</div>
+
+
 
 <div id="header" align="center">
   <h1><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/> Skills</h1>
