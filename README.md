@@ -4,6 +4,7 @@
 <div>
    <img src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" align="left">
     I'm a young man who study programming on my own, focused on back-end and I'm passionate about computing, electronics, music, model airplanes.
+
 </div>
 
 
