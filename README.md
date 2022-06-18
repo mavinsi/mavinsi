@@ -10,7 +10,7 @@
 
 
 <div id="header" align="center">
-  <h1><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/></h1>
+  <h3><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/></h3>
 </div>
 <br>
 
