@@ -10,7 +10,7 @@
 
 
 <div id="header" align="center">
-  <h1><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/> Skills</h1>
+  <h1><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/></h1>
 </div>
 <br>
 
